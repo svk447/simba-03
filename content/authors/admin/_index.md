@@ -1,6 +1,7 @@
 ---
-title: Квалифицированная помощь ветеринарных врачей вашим питомцам
-role: Свердловская область, Нижний Тагил, ул. Носова 1 (3435) 92-60-73
+title: Ветеринарная клиника "Симба"
+role: Свердловская область, Нижний Тагил, ул. Носова, 1 +7 (3435) 92-60-73
+avatar_filename: simba-clinic.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

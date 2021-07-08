@@ -1,7 +1,7 @@
 ---
 title: Ветеринарная клиника "Симба"
 role: Свердловская область, Нижний Тагил, ул. Носова, 1 +7 (3435) 92-60-73
-avatar_filename: https://colate.ru/wp-content/uploads/simba.jpg
+avatar_filename: avatar.jpg
 bio: Квалифицированная помощь ветеринарных врачей вашим питомцам
 interests:
   - Artificial Intelligence

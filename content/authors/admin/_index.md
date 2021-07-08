@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Квалифицированная помощь ветеринарных врачей вашим питомцам
+role: Свердловская область, Нижний Тагил, ул. Носова 1 (3435) 92-60-73
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

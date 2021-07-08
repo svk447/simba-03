@@ -1,8 +1,8 @@
 ---
-title: Квалифицированная помощь ветеринарных врачей вашим питомцам
+title: Ветеринарная клиника "Симба"
 role: Свердловская область, Нижний Тагил, ул. Носова, 1 +7 (3435) 92-60-73
 avatar_filename: avatar.jpg
-bio: Квалифицированная помощь ветеринарных врачей вашим питомцам
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics

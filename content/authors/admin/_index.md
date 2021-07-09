@@ -23,11 +23,10 @@ social:
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: Текущий сайт
+    url: https://clinic-simba.ru/
 education:
-  courses:
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: true
 highlight_name: false
